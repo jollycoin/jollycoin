@@ -1,0 +1,10 @@
+cryptography
+sqlalchemy
+requests
+aiohttp
+aiohttp_jinja2
+aiohttp_cors
+colored
+uvloop
+python-dateutil
+pymysql
